@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints
+
+# Data
+*.csv
+*.xlsx
+*.pkl
+
+# MacOS
+.DS_Store
