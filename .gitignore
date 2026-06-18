@@ -10,3 +10,6 @@ __pycache__/
 
 # MacOS
 .DS_Store
+
+# Personal / local-only notes
+INTERVIEW_CHEATSHEET.md
